@@ -1,3 +1,6 @@
+CREATE DATABASE session02;
+USE session02;
+
 CREATE TABLE CUSTOMERS (
 	CustomerID INT PRIMARY KEY,
     FullName VARCHAR(100),
